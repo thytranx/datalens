@@ -1,0 +1,27 @@
+# CMake build directory
+build/
+out/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+# *.dylib use libglfw.3.3.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
