@@ -34,10 +34,10 @@ Target Users:
 
 ## Key Features  
 ### Core Modules  
-| **Data Management**               | **Visualization Engine**         |  
+| **Data Management**               | **Visualization Engine**          |  
 |-----------------------------------|-----------------------------------|  
-| - CSV/JSON/Point Cloud ingestion  | - OpenGL 4.6/DirectX 12 rendering |  
-| - Octree/k-d Tree optimizations   | - Dynamic LOD scene management   |  
+| - CSV/JSON/Point Cloud ingestion  | - OpenGL 3 rendering              |  
+| - Octree/k-d Tree optimizations   | - Dynamic LOD scene management    |  
 | - PCA-based dimensionality reduction | - Customizable visual mappings |  
 
 | **Interaction System**            | **AI Assistant**                  |  
