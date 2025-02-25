@@ -34,17 +34,12 @@ Target Users:
 
 ## Key Features  
 ### Core Modules  
-| **Data Management**               | **Visualization Engine**          |  
-|-----------------------------------|-----------------------------------|  
-| - CSV/JSON/Point Cloud ingestion  | - OpenGL 3 rendering              |  
-| - Octree/k-d Tree optimizations   | - Dynamic LOD scene management    |  
-| - PCA-based dimensionality reduction | - Customizable visual mappings |  
+| **Data Management**               | **Visualization Engine**          |   **Interaction System**            |  **AI Assistant**               |
+|-----------------------------------|-----------------------------------|-------------------------------------|---------------------------------|
+| - PDB/CFD/CSV/JSON/3D Point Clouds  | - OpenGL 3 rendering              | - 6DOF camera controls              | - NLP-powered query parsing     |
+| - Octree/k-d Tree optimizations   | - Dynamic LOD scene management    | - Real-time data slicing/filtering  | - Context-aware recommendations |
+| - PCA-based dimensionality reduction | - Customizable visual mappings | - Collaborative annotation tools    | - Automated insight generation  |
 
-| **Interaction System**            | **AI Assistant**                  |  
-|-----------------------------------|-----------------------------------|  
-| - 6DOF camera controls            | - NLP-powered query parsing       |  
-| - Real-time data slicing/filtering| - Context-aware recommendations   |  
-| - Collaborative annotation tools  | - Automated insight generation    |  
 
 ### Performance Targets  
 ✅ **30+ FPS** with 10M+ data points  
