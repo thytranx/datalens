@@ -1,0 +1,4 @@
+# ninja log v6
+1	27	1739674327207353834	CMakeFiles/glm_dummy.dir/detail/dummy.o	92a21988e005164
+1	505	1739674327207647795	CMakeFiles/glm_dummy.dir/detail/glm.o	65134f880dcc605e
+505	534	1739674327712142331	glm_dummy	d060a536ad647cab

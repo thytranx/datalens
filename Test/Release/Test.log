@@ -1,0 +1,2 @@
+﻿  Test.cpp
+C:\Users\Thy\OneDrive\Documents\GitHub\datalens\Test\Test.cpp(52,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
